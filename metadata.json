@@ -1,0 +1,6 @@
+{
+  "name": "Sophist Hearts: A Platonic Romance",
+  "description": "A dynamic text adventure game where you romance anime girl representations of Plato's seven definitions of a Sophist. Uses Gemini for narrative and Imagen for visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
